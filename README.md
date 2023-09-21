@@ -2,6 +2,7 @@
 **Hi there** :wave: 
 
 # ModelAssess 中文竞技场大模型测评
+魔搭社区-中文竞技场：https://modelscope.cn/studios/LLMZOO/Chinese-Arena/summary
 文章地址：https://developer.aliyun.com/article/1332706
 
 
