@@ -4,7 +4,10 @@
 # ModelAssess 中文竞技场大模型测评
 :mag: 魔搭社区-中文竞技场：https://modelscope.cn/studios/LLMZOO/Chinese-Arena/summary
 
-:page_facing_up: 文章地址：https://developer.aliyun.com/article/1332706
+:page_facing_up: 文章地址
+- 单模型对话：https://developer.aliyun.com/article/1332706
+- 双模型匿名对话：https://developer.aliyun.com/article/1331817
+- 模型自动对话：https://developer.aliyun.com/article/1331818
 
 :pushpin: 活动地址：https://developer.aliyun.com/topic/ms2023
 
