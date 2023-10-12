@@ -1,5 +1,9 @@
  
 **Hi there** :wave: 
+# 更新：社区工作人员联系我，’反馈有用户质疑我提出的问题不够‘。我只想说：左转麻烦去挂个眼科，谢谢！
+![image](https://github.com/meichao123/ModelAssess/assets/29699988/5ca4215c-fd7d-4ace-8b4c-6efe6da46029)
+
+
 
 # ModelAssess 中文竞技场大模型测评
 :mag: 魔搭社区-中文竞技场：https://modelscope.cn/studios/LLMZOO/Chinese-Arena/summary
